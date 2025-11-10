@@ -1,0 +1,1 @@
+{"name":"Local: 18","url":"d:\\DSA\\CP-31\\800\\18.cpp","tests":[{"id":1762534371519,"input":"3\n10 2\n10 3\n3 4","output":"2\n7 3\n1\n10\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\CP-31\\800\\18.cpp","group":"local","local":true}
