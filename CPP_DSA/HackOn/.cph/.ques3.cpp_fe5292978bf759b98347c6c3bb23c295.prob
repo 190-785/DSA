@@ -1,0 +1,1 @@
+{"name":"Local: ques3","url":"f:\\HackOn\\ques3.cpp","tests":[{"id":1748530876760,"input":"4 5 \n0 1 1\n0 2 4\n1 2 2 \n1 3 5 \n2 3 1\n1","output":"3"},{"id":1748530910882,"input":"3 3 \n0 1 4\n0 2 3\n1 2 2\n2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\HackOn\\ques3.cpp","group":"local","local":true}

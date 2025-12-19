@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"e:\\CPP_DSA\\TCS_MOCK_VITA1\\A.cpp","tests":[{"id":1757137839855,"input":"5 5\ns s 0 0 0\n0 H 0 0 H\n0 H 0 H H\n0 H 0 0 H\n0 0 0 S S","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CPP_DSA\\TCS_MOCK_VITA1\\A.cpp","group":"local","local":true}
