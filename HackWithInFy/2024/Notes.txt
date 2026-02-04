@@ -1,0 +1,12 @@
+Gen Ai Projects with their system design
+
+
+//For ques 4 just do x-1 x-2... for all before peak and after then check freq 
+    and Later just take max freq one and then check diff between the 
+
+System Design [ Check your Drive ]
+
+
+Website testing projects [ using seleninum for backend ] { find one for frontend }
+
+Online puzzles
