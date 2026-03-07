@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\DSA\\DSA\\AtCoder\\ABC\\448\\A.cpp","tests":[{"id":1772884522306,"input":"8 20\n9 19 14 17 17 4 18 4","output":"1\n0\n0\n0\n0\n1\n0\n0"},{"id":1772885025768,"input":"5 10\n6 4 7 1 3","output":"1\n1\n0\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\DSA\\AtCoder\\ABC\\448\\A.cpp","group":"local","local":true}
